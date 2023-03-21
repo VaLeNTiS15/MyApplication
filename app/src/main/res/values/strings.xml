@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="details">Details</string>
+    <string name="back">BACK</string>
+    <string name="typical_image_of_animal">Typical image of animal</string>
+    <string name="jellyfish_description"> A jellyfish is a soft-bodied, bell-shaped aquatic animal with trailing tentacles, no bones, brain, or heart. They come in different colors and sizes and are found in oceans worldwide. Jellyfish use their stinging tentacles for capturing prey and defense. </string>
+    <string name="dragon_description"> A dragon is a mythical creature typically depicted as a large, scaly, winged reptile with sharp teeth and claws. They are often portrayed as breathing fire and are associated with power and strength. Dragons are prevalent in various mythologies and legends around the world. </string>
+    <string name="hedgehog_description"> A hedgehog is a small, spiny mammal with a rounded body, short legs, and sharp quills used for defense. They are nocturnal, feed on insects and other small creatures, and hibernate in winter. Hedgehogs are popular as pets and admired for their role in natural pest control. </string>
+</resources>
